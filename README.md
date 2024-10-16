@@ -4,5 +4,11 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusb.dev/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusb-dev&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusb-dev&show_icons=true&theme=dracula) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+---------
+
+## Tecnologias que eu uso no meu dia a dia
 
