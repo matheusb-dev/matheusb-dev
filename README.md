@@ -27,4 +27,6 @@
 
 </div><br/>
 
+------
+
 Apaixonado por tecnologia, cursando ESW
